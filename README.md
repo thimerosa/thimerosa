@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thimerosa
-- 👀 I’m interested in print technologies and networks
-- 🌱 I’m currently learning javascript, HTML & Android programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in print technologies, networks & blockchain
+- 🌱 I’m currently learning javascript, HTML, Android & Rust programming
+- 📫 How to reach me: twitter.com/thimerosa
 
 <!---
 thimerosa/thimerosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
