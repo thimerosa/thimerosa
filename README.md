@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thimerosa
 - 👀 I’m interested in print technologies, networks & blockchain
 - 🌱 I’m currently learning javascript, HTML, Android & Rust programming
+- ❤️❤️ C-drama and weightlifting
 - 📫 How to reach me: twitter.com/thimerosa
 
 <!---
