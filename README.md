@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thimerosa
-- 👀 I’m interested in print technologies, networks & blockchain
+- 👀 I’m interested in print technologies, networks & blockchain. B.comp & CCNA certified.
 - 🌱 I’m currently learning javascript, HTML, Android & Rust programming
 - ❤️ Computer networks and weightlifting
 - 📫 How to reach me: twitter.com/thimerosa
